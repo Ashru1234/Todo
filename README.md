@@ -30,7 +30,7 @@ This is a simple Todo application built using React and Vite. The application al
 1. Clone the repository:
     ```bash
     git clone https://github.com/Ashru1234/Todo.git
-    cd todo-app
+    cd Todo
     ```
 
 2. Install the dependencies:

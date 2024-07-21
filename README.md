@@ -53,7 +53,5 @@ This is a simple Todo application built using React and Vite. The application al
     yarn dev
     ```
 
-2. Open your browser and navigate to `http://localhost:3000` to see the application in action.
-
-## Project Structure
+2. Open your browser and navigate to the url to see the application in action.
 
